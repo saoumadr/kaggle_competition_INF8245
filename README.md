@@ -61,7 +61,7 @@ Evaluation metric: **Macro F1-score**
 - [**`data_exploration.ipynb`**](data_exploration.ipynb)
   Exploratory data analysis: class imbalance, feature inspection, metadata...
 
-- [**`Report.pdf`**](Report.pdf)  
+- [**`report.pdf`**](report.pdf)  
   Written report describing the methodology, experiments, results, and discussion.
 
 ---
