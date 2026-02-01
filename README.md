@@ -55,13 +55,13 @@ Evaluation metric: **Macro F1-score**
 
 ## Repository Structure
 
-- **`main.ipynb`**  
+- [**`main.ipynb`**](main.ipynb)  
   Main notebook containing preprocessing, modeling, training, and evaluation on the public dataset.
 
-- **`data_exploration.ipynb`**  
+- [**`data_exploration.ipynb`**](data_exploration.ipynb)
   Exploratory data analysis: class imbalance, feature inspection, metadata...
 
-- **`Report.pdf`**  
+- [**`Report.pdf`**](Report.pdf)  
   Written report describing the methodology, experiments, results, and discussion.
 
 ---
